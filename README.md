@@ -27,6 +27,8 @@ INDOMER DATASET - the first comprehensive benchmark dataset for Indonesian multi
 |               | Netral     | 1055  | 263 |
 |               | Positif    | 249   | 40  |
 
+### Dataset Topic Distribution
+![Dataset Topic Distribution](assets/topic.png)
 
 ### Dataset Creation
 **Video Acquisition**: We collected 208 publicly available individual monologue videos from YouTube to capture natural multimodal emotional expressions via speech, tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.

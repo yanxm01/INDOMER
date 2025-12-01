@@ -13,7 +13,7 @@ INDOMER DATASET - the first comprehensive benchmark dataset for Indonesian multi
 | Speech rate (number of words per second)          |  2.18     |
 | Vocabulary size                                   |  4066     |
 
-### Dataset Distribution
+### Dataset Category Distribution
 | Category Type | Category   | Train | Val |
 |---------------|------------|-------|-----|
 | 7-Class       | Anger      | 69    | 13  |
@@ -28,7 +28,12 @@ INDOMER DATASET - the first comprehensive benchmark dataset for Indonesian multi
 |               | Positif    | 249   | 40  |
 
 ### Dataset Topic Distribution
-![Dataset Topic Distribution](assets/Topic.png)
+<img src="assets/Topic.png" width="50%">
+Video theme distribution in the IndoMER dataset. The chart shows the number of videos collected from each of the thirteen themes, reflecting a balanced selection to capture various emotional nuances across diverse topics
+
+### Dataset Annotation Distribution
+<img src="assets/Fig2.png" width="100%">
+Distribution of emotional and sentiment annotations across modalities. (a) Sentiment label distributions for text, audio, and visual modalities, along with their multimodal consensus. (b) Emotion category distribution within the multimodal annotations, highlighting the long tailed nature of natural emotional communication.
 
 ### Dataset Creation
 **Video Acquisition**: We collected 208 publicly available individual monologue videos from YouTube to capture natural multimodal emotional expressions via speech, tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.

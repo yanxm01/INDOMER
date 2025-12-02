@@ -1,30 +1,31 @@
 ## Introduction
-INDOMER DATASET - the first comprehensive benchmark dataset for Indonesian multimodal emotion recognition. Comprising 1946 temporally aligned video segments from social media, IndoMER is meticulously annotated for seven emotions across text, audio, and visual modalities, featuring a well-documented long-tailed class distribution to reflect real-world challenges.
+IndoMER DATASET - the first comprehensive benchmark dataset for Indonesian multimodal emotion recognition. Comprising 1946 temporally aligned video segments from social media, IndoMER is meticulously annotated for seven emotions across text, audio, and visual modalities, featuring a well-documented long-tailed class distribution to reflect real-world challenges.
 
 ### Dataset Statistics
-| Statistics                                        | Number    |
-|---------------------------------------------------|-----------|
-| Total number of videos                            |  208      |
-| Total number of distinct speakers (Male/Female)   |  76/132   |
-| Total number of segments (Male/Female)            |  778/1168 |
-| Total number of distinet topics                   |  13       |
-| Average word count per segments                   |  11.69    |
-| Average length of segments (in seconds)           |  5.36     |
-| Speech rate (number of words per second)          |  2.18     |
-| Vocabulary size                                   |  4066     |
+| Statistics                                        | Number                     |
+|---------------------------------------------------|---------------------------:|
+| Total source videos                               | 208                        |
+| Total video segments                              | 1,946                      |
+| Total distinct speakers                           | 208                        |
+| &emsp;- *Male segments*                           | 778                        |
+| &emsp;- *Female segments*                         | 1,168                      |
+| Average segment duration                          | 5.36 sec                   |
+| Average word count                                | 11.69 words                |
+| Speech rate                                       | 2.18 words/sec             |
+| Vocabulary size (unique words)                    | 4,066                      |
 
-### Dataset Category Distribution
+### Dataset Category Statistics
 | Category Type | Category   | Train | Val |
-|---------------|------------|-------|-----|
+|---------------|------------|------:|----:|
 | 7-Class       | Anger      | 69    | 13  |
 |               | Disgust    | 33    | 5   |
 |               | Fear       | 5     | 4   |
 |               | Happiness  | 278   | 39  |
-|               | Neutral    | 1055  | 263 |
+|               | Neutral    | 1,055  | 263 |
 |               | Sadness    | 142   | 32  |
 |               | Surprise   | 7     | 1   |
 | 3-Class       | Negatif    | 249   | 54  |
-|               | Netral     | 1055  | 263 |
+|               | Netral     | 1,055  | 263 |
 |               | Positif    | 249   | 40  |
 
 ### Dataset Topic Distribution
@@ -51,7 +52,7 @@ The paper explaining this dataset can be found - [Causality-Inspired Adaptation 
 ## Repository Structure
 
 ```text
-MIED/
+INDOMER/
 ├── 3_class/
 │   ├── train.json        # Train split with 3 sentiment categories (negative, neutral, positive)
 │   └── val.json          # Validation split with 3 sentiment categories

@@ -1,17 +1,17 @@
 ## Introduction
-IndoMER DATASET - the first comprehensive benchmark dataset for Indonesian multimodal emotion recognition. Comprising 1946 temporally aligned video segments from social media, IndoMER is meticulously annotated for seven emotions across text, audio, and visual modalities, featuring a well-documented long-tailed class distribution to reflect real-world challenges.
+IndoMER DATASET - the first comprehensive benchmark dataset for Indonesian multimodal emotion recognition. Comprising 1944 temporally aligned video segments from social media, IndoMER is meticulously annotated for seven emotions across text, audio, and visual modalities, featuring a well-documented long-tailed class distribution to reflect real-world challenges.
 
 ### Dataset Statistics
 | Statistics                                        | Number                     |
 |---------------------------------------------------|---------------------------:|
-| Total source videos                               | 208                        |
-| Total video segments                              | 1,946                      |
-| Total distinct speakers                           | 208                        |
+| Total source videos                               | 207                        |
+| Total video segments                              | 1,944                      |
+| Total distinct speakers                           | 203                        |
 | &emsp;- *Male segments*                           | 778                        |
-| &emsp;- *Female segments*                         | 1,168                      |
-| Average segment duration                          | 5.36 sec                   |
-| Average word count                                | 11.69 words                |
-| Speech rate                                       | 2.18 words/sec             |
+| &emsp;- *Female segments*                         | 1,167                      |
+| Average segment duration                          | 5.37 sec                   |
+| Average word count                                | 11.68 words                |
+| Speech rate                                       | 2.17 words/sec             |
 | Vocabulary size (unique words)                    | 4,066                      |
 
 ### Dataset Topic Distribution
@@ -31,17 +31,17 @@ Distribution of emotional and sentiment annotations in the IndoMER dataset.
 |               | Disgust    | 33    | 5   |
 |               | Fear       | 5     | 4   |
 |               | Happiness  | 278   | 39  |
-|               | Neutral    | 1,055  | 263 |
+|               | Neutral    | 1,054 | 262 |
 |               | Sadness    | 142   | 32  |
 |               | Surprise   | 7     | 1   |
 | 3-Class       | Negatif    | 249   | 54  |
-|               | Netral     | 1,055  | 263 |
-|               | Positif    | 249   | 40  |
+|               | Netral     | 1,054 | 262 |
+|               | Positif    | 285   | 40  |
 
 ### Dataset Creation
-**Video Acquisition**: We collected 208 publicly available individual monologue videos from YouTube to capture natural multimodal emotional expressions via speech, tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.
+**Video Acquisition**: We collected 207 publicly available individual monologue videos from YouTube to capture natural multimodal emotional expressions via speech, tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.
 
-**Segment Verification**: Our dataset was annotated by 7 Indonesian native speakers and 1 language expert for linguistic and cultural quality. Videos were segmented by natural pauses, then manually transcribed in authentic spoken Indonesian without converting to formal language. The expert reviewed transcripts with attention to regional variations. Sentiment was labeled on a –1 to 1 scale (0 = neutral) and finalized by majority agreement (≥2), otherwise decided by the expert using multimodal cues (tone + facial expression + context). Emotions follow Ekman’s 7-category standard (fear, disgust, anger, sadness, happiness, surprise, neutral), rated on a 0–3 intensity scale by 3 annotators, with expert adjudication when inconsistent. The final release contains 1,946 curated and ethically filtered emotional segments.
+**Segment Verification**: Our dataset was annotated by 7 Indonesian native speakers and 1 language expert for linguistic and cultural quality. Videos were segmented by natural pauses, then manually transcribed in authentic spoken Indonesian without converting to formal language. The expert reviewed transcripts with attention to regional variations. Sentiment was labeled on a –1 to 1 scale (0 = neutral) and finalized by majority agreement (≥2), otherwise decided by the expert using multimodal cues (tone + facial expression + context). Emotions follow Ekman’s 7-category standard (fear, disgust, anger, sadness, happiness, surprise, neutral), rated on a 0–3 intensity scale by 3 annotators, with expert adjudication when inconsistent. The final release contains 1,944 curated and ethically filtered emotional segments.
 
 ## Paper
 The paper explaining this dataset can be found - [Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation]()
@@ -65,13 +65,14 @@ INDOMER/
 ## Description of the Annotations.csv files
 | Column Name  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| video_name       | Video clip names follow the format *clip_number_topic_number.mp4*, where the first number denotes the ID of the full video (a total of 208), and the second number indicates the index of the clip within that video. |
-| audio_name       | Audio files follow the same naming convention, sharing the identical clip_number_topic_number structure. |
-| emotion       | The ground-truth emotion annotation for the sample, assigned to one of the seven predefined categories: *ketakutan, jijik, kemarahan, kesedihan, netral, kebahagiaan,* or *surprise*. |
-| emotion_id    | Integer encoding of emotion, using the mapping: {netral: 0, kebahagiaan: 1, surprise: 2, kesedihan: 3, kemarahan: 4, jijik: 5, ketakutan: 6}. |
-| sentiment       | The ground-truth sentiment annotation for the sample, assigned to one of the three predefined categories: *negatif, netral* or *positif*. |
-| sentiment_id    | Integer encoding of sentiment, using the mapping: {netral: 0, positif: 1, negatif: 2}. |
-| text       | The manually verified transcription of the spoken content in each video clip. |
+| video_name      | Video clip names follow the format *clip_number_topic_number.mp4*, where the first number denotes the ID of the full video (a total of 208), and the second number indicates the index of the clip within that video. |
+| audio_name      | Audio files follow the same naming convention, sharing the identical clip_number_topic_number structure. |
+| emotion | The ground-truth emotion annotation for the sample at the *overall / multimodal level*, assigned to one of the seven predefined categories: *ketakutan, jijik, kemarahan, kesedihan, netral, kebahagiaan,* or *surprise*. |
+| sentiment        | The ground-truth sentiment annotation for the sample at the *overall / multimodal level*, assigned to one of the three predefined categories: *negatif, netral,* or *positif*. |
+| text_sentiment   | The ground-truth sentiment annotation for the *text modality only*, derived solely from the textual content (e.g., transcript) of the sample, and assigned to one of the three predefined categories: *negatif, netral,* or *positif*. |
+| audio_sentiment  | The ground-truth sentiment annotation for the *audio modality only*, derived solely from the acoustic and prosodic characteristics of the speech signal, and assigned to one of the three predefined categories: *negatif, netral,* or *positif*. |
+| video_sentiment  | The ground-truth sentiment annotation for the *video modality only*, derived solely from the visual information (e.g., facial expressions and gestures) of the sample, and assigned to one of the three predefined categories: *negatif, netral,* or *positif*. |
+| text            | The manually verified transcription of the spoken content in each video clip. |
 
 
 ## Description of Pickle Files

@@ -34,12 +34,12 @@ Distribution of emotional and sentiment annotations in the IndoMER dataset.
 |               | Neutral    | 1,054 | 262 |
 |               | Sadness    | 142   | 32  |
 |               | Surprise   | 7     | 1   |
-| 3-Class       | Negatif    | 249   | 54  |
-|               | Netral     | 1,054 | 262 |
-|               | Positif    | 285   | 40  |
+| 3-Class       | Negative   | 249   | 54  |
+|               | Neutral    | 1,054 | 262 |
+|               | Positive   | 285   | 40  |
 
 ### Dataset Creation
-**Video Acquisition**: We collected 207 publicly available individual monologue videos from YouTube to capture natural multimodal emotional expressions via speech, tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.
+**Video Acquisition**: This dataset consists of 207 publicly available individual monologue videos collected from social media platforms (e.g., YouTube and TikTok). Each video captures natural multimodal emotional expressions through speech, vocal tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.
 
 **Segment Verification**: Our dataset was annotated by 7 Indonesian native speakers and 1 language expert for linguistic and cultural quality. Videos were segmented by natural pauses, then manually transcribed in authentic spoken Indonesian without converting to formal language. The expert reviewed transcripts with attention to regional variations. Sentiment was labeled on a –1 to 1 scale (0 = neutral) and finalized by majority agreement (≥2), otherwise decided by the expert using multimodal cues (tone + facial expression + context). Emotions follow Ekman’s 7-category standard (fear, disgust, anger, sadness, happiness, surprise, neutral), rated on a 0–3 intensity scale by 3 annotators, with expert adjudication when inconsistent. The final release contains 1,944 curated and ethically filtered emotional segments.
 

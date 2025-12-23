@@ -46,9 +46,6 @@ Distribution of emotional and sentiment annotations in the IndoMER dataset.
 ## Paper
 The paper explaining this dataset can be found - [Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation](https://arxiv.org/abs/2512.19379)
 
-## Download the data
-
-
 ## Repository Structure
 
 ```text

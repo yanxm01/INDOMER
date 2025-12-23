@@ -44,7 +44,7 @@ Distribution of emotional and sentiment annotations in the IndoMER dataset.
 **Segment Verification**: Our dataset was annotated by 7 Indonesian native speakers and 1 language expert for linguistic and cultural quality. Videos were segmented by natural pauses, then manually transcribed in authentic spoken Indonesian without converting to formal language. The expert reviewed transcripts with attention to regional variations. Sentiment was labeled on a –1 to 1 scale (0 = neutral) and finalized by majority agreement (≥2), otherwise decided by the expert using multimodal cues (tone + facial expression + context). Emotions follow Ekman’s 7-category standard (fear, disgust, anger, sadness, happiness, surprise, neutral), rated on a 0–3 intensity scale by 3 annotators, with expert adjudication when inconsistent. The final release contains 1,944 curated and ethically filtered emotional segments.
 
 ## Paper
-The paper explaining this dataset can be found - [Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation]()
+The paper explaining this dataset can be found - [Indonesian Multimodal Emotion Recognition via Auxiliary-Enhanced LLM Adaptation](https://arxiv.org/abs/2512.19379)
 
 ## Download the data
 

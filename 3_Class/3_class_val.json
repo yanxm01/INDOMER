@@ -1,0 +1,3562 @@
+[
+  {
+    "sample_id": "clip_101_Opinion_1",
+    "text": "Asslammualaikum warahmatullahi wabarakatuh, selamat datang di video pertama Suha.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_101_Opinion_1.mp4",
+    "audio": "clip_101_Opinion_1.wav"
+  },
+  {
+    "sample_id": "clip_101_Opinion_2",
+    "text": "Di video sinyal hukum tata negara dari Suha.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_101_Opinion_2.mp4",
+    "audio": "clip_101_Opinion_2.wav"
+  },
+  {
+    "sample_id": "clip_101_Opinion_3",
+    "text": "Nah, dalam kesempatan kali ini Suha akan mencoba membagikan sedikit pengetahuan tentang hukum tata negara.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_101_Opinion_3.mp4",
+    "audio": "clip_101_Opinion_3.wav"
+  },
+  {
+    "sample_id": "clip_101_Opinion_4",
+    "text": "Di sini Suha berdoman dengan sligt yang diberikan oleh",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_101_Opinion_4.mp4",
+    "audio": "clip_101_Opinion_4.wav"
+  },
+  {
+    "sample_id": "clip_101_Opinion_5",
+    "text": "Dan mencoba lagi kepada teman-teman semuanya supaya bisa ilmunya melekat lagi kepada Suha dan juga yang mendengarkan atau yang menonton ini.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_101_Opinion_5.mp4",
+    "audio": "clip_101_Opinion_5.wav"
+  },
+  {
+    "sample_id": "clip_101_Opinion_6",
+    "text": "Jadi pertama kali kita ke membahas lebih dahulu tentang definsi hukum tata negara.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "positif",
+    "video": "clip_101_Opinion_6.mp4",
+    "audio": "clip_101_Opinion_6.wav"
+  },
+  {
+    "sample_id": "clip_101_Opinion_7",
+    "text": "Ada beberapa ahli yang mengatakan tentang hukum yang menjeparkan terkait pengertian dari pengertian hukum tata negara.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_101_Opinion_7.mp4",
+    "audio": "clip_101_Opinion_7.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_1",
+    "text": "Hello everyone, hi, apa kabar kan semua,nama aku Lifi Sanders",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_10_Makeup_1.mp4",
+    "audio": "clip_10_Makeup_1.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_10",
+    "text": "Di sini lima product skincare yang bakal gua share ke kalian, gua kasih kenapa gue suka dan at least gue bakal rekomen banget ini untuk kalian coba",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_10_Makeup_10.mp4",
+    "audio": "clip_10_Makeup_10.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_2",
+    "text": "If you guys bakal mau ngomongin make-up tapi ku bakal ngomongin satu aspek yang paling penting dalam dunia perbeautyan kecantikan ini, yaitu tentang skincare",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_10_Makeup_2.mp4",
+    "audio": "clip_10_Makeup_2.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_3",
+    "text": "Specifically bakal ngomongin yang tentang product-product skincare apa aja yang lagi gue demen yang menurut gue itu ampu dan at least bekerja di wajah gue",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "positif",
+    "video": "clip_10_Makeup_3.mp4",
+    "audio": "clip_10_Makeup_3.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_4",
+    "text": "Karena sometimes there are skincares that ya dia kelihatan OKOK aja di wajah lo, tapi sama sekali nggak berefek dan lu nggak ngrasa kayak ada perubahan gitu lo",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_10_Makeup_4.mp4",
+    "audio": "clip_10_Makeup_4.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_5",
+    "text": "Tapi dia nggak bereaksi juga kalian ngerti kan",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_10_Makeup_5.mp4",
+    "audio": "clip_10_Makeup_5.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_6",
+    "text": "Maksudnya sensitif itu kalau misalnya product itu nggak cocok hasilnya langsung apa, langsung muncul jerawat",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_10_Makeup_6.mp4",
+    "audio": "clip_10_Makeup_6.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_7",
+    "text": "Reaksinya cepat banget kelihatan dan karena gua bisa mengenal wajah gue lebih baik lagi,kulit wajah gue lebih baik lagi",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_10_Makeup_7.mp4",
+    "audio": "clip_10_Makeup_7.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_8",
+    "text": "Gua tahualah kira-kira yang bekerja sama yang nggak of course kita paling tahu tentang kita sendiri",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_10_Makeup_8.mp4",
+    "audio": "clip_10_Makeup_8.wav"
+  },
+  {
+    "sample_id": "clip_10_Makeup_9",
+    "text": "Satu, dua",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_10_Makeup_9.mp4",
+    "audio": "clip_10_Makeup_9.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_1",
+    "text": "Assalamualaikum Warahmatullahi Wabarakatuh.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_1.mp4",
+    "audio": "clip_114_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_10",
+    "text": "Sebutan bagi seorang wanita yang menjalin hubungan dengan suami orang di mana dia merebut suami orang.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_10.mp4",
+    "audio": "clip_114_Sharing_10.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_11",
+    "text": "Nah, di sini perlu Anda ketahui bahwa pelakor sendiri ada beberapa tipe nih.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_11.mp4",
+    "audio": "clip_114_Sharing_11.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_12",
+    "text": "Pelakor yang memang benar-benar ingin merusak hubungan rumah tangga orang atau pelakor yang tidak sengaja.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_114_Sharing_12.mp4",
+    "audio": "clip_114_Sharing_12.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_13",
+    "text": "Pelakor yang tidak sengaja ini maksudnya bagaimana sih Mbak Nima?",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_114_Sharing_13.mp4",
+    "audio": "clip_114_Sharing_13.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_2",
+    "text": "Hello, apa kabar?",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_114_Sharing_2.mp4",
+    "audio": "clip_114_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_3",
+    "text": "di hari Sabtu ini.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_114_Sharing_3.mp4",
+    "audio": "clip_114_Sharing_3.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_4",
+    "text": "Saya berharap Anda selalu dipenuhi dengan rahmat dan kasih sayang oleh Allah Subhanahu wa ta'ala.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_114_Sharing_4.mp4",
+    "audio": "clip_114_Sharing_4.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_5",
+    "text": "Khusus di video kali ini, saya akan bahas tentang beberapa hal yang wajib diketahui oleh pelakor.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_5.mp4",
+    "audio": "clip_114_Sharing_5.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_6",
+    "text": "Namun bagi Anda yang belum subscribe channel ini, silakan untuk subscribe terlebih dahulu,",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_6.mp4",
+    "audio": "clip_114_Sharing_6.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_7",
+    "text": "dan jangan lupa untuk klik button loncengnya agar Anda selalu mendapatkan pemberitahuan,",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_7.mp4",
+    "audio": "clip_114_Sharing_7.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_8",
+    "text": "jika saya membuat video-video baru.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_8.mp4",
+    "audio": "clip_114_Sharing_8.wav"
+  },
+  {
+    "sample_id": "clip_114_Sharing_9",
+    "text": "Ya, pelakor merupakan sebutan ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_114_Sharing_9.mp4",
+    "audio": "clip_114_Sharing_9.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_1",
+    "text": "Nama saya Harriot.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_119_Sharing_1.mp4",
+    "audio": "clip_119_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_10",
+    "text": "Apalagi saya kuliah di Fakultas Ilmu Budaya,",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_119_Sharing_10.mp4",
+    "audio": "clip_119_Sharing_10.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_11",
+    "text": "kuliah kelas praktik, karawitan.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_119_Sharing_11.mp4",
+    "audio": "clip_119_Sharing_11.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_12",
+    "text": "Itu sama mahasiswa Indonesia dari bisa belajar berteman sama mahasiswa Indonesia di Jogja.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_119_Sharing_12.mp4",
+    "audio": "clip_119_Sharing_12.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_2",
+    "text": "Saya kuliah bahasa Indonesia di uTest di Tasmania.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_119_Sharing_2.mp4",
+    "audio": "clip_119_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_3",
+    "text": "Saya sudah kuliah satu semester di UGM di Jogja.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_119_Sharing_3.mp4",
+    "audio": "clip_119_Sharing_3.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_4",
+    "text": "Untuk saya, orang asing, kuliah di Jogja itu sangat menarik.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_119_Sharing_4.mp4",
+    "audio": "clip_119_Sharing_4.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_5",
+    "text": "Sebenarnya itu susah, tapi ya, nggak apa-apa, masih bisa.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_119_Sharing_5.mp4",
+    "audio": "clip_119_Sharing_5.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_6",
+    "text": "Itu bisa dipelajari banyak tentang bahasa, budaya, cara hidup semuaya.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_119_Sharing_6.mp4",
+    "audio": "clip_119_Sharing_6.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_7",
+    "text": "Sama kuliah saya di UGM, saya kuliah kelas-kelas bahasa Indonesia sama mahasiswa asing.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_119_Sharing_7.mp4",
+    "audio": "clip_119_Sharing_7.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_8",
+    "text": "Dari mana-mana. Dari Jepang, Korea, Eropa, Rusia. Ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_119_Sharing_8.mp4",
+    "audio": "clip_119_Sharing_8.wav"
+  },
+  {
+    "sample_id": "clip_119_Sharing_9",
+    "text": "Jadi itu mantap bisa ketemu sama kawan-kawan dari seluruh dunia.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_119_Sharing_9.mp4",
+    "audio": "clip_119_Sharing_9.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_1",
+    "text": "Nah terus gimana sih cara panggil jelangkung. Katakan dari tadi khusus sebutkan sih pawang-pawang ini menyebutkan mantra ya kan.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_128_Sharing_1.mp4",
+    "audio": "clip_128_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_10",
+    "text": "Siapa nama makhluk itu? Tahun berapa meninggalnya？ Apa penyebab meninggalnya？",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_128_Sharing_10.mp4",
+    "audio": "clip_128_Sharing_10.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_11",
+    "text": "Bahkan sering juga dilakukan untuk mencoba peruntungan dengan menanyakan nomor peruntungan mana nanti akan keluar. Nah biasanya dilakukan apa? Perjudian.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_128_Sharing_11.mp4",
+    "audio": "clip_128_Sharing_11.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_2",
+    "text": "Jadi gini sebelumnya, ritual ini dalam perkembangannya di Indonesia udah mulai digunakan untuk hal-hal selain permainan aja,",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_128_Sharing_2.mp4",
+    "audio": "clip_128_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_3",
+    "text": "seperti untuk mencari informasi tentang diagnosa sebuah penyakit dan bagaimana cara pengobatannya oleh beberapa praktisi kesehatan non konvensional,",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_128_Sharing_3.mp4",
+    "audio": "clip_128_Sharing_3.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_4",
+    "text": "dan katanya juga cara memainkan jelangkung meninggal semudah kalian pikir dan pada umumnya ritual ini dilakukan oleh 3 orang.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_128_Sharing_4.mp4",
+    "audio": "clip_128_Sharing_4.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_5",
+    "text": "Yaitu 2 yang memegang sih boneka jelangkung ini dan 1 pawang yang membaca mantra.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_128_Sharing_5.mp4",
+    "audio": "clip_128_Sharing_5.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_6",
+    "text": "Dan permainan ini biasanya selalu dilakukan di tempat-tempat yang dikenal angker atau horor dan biasanya dilakukan di waktu senja.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_128_Sharing_6.mp4",
+    "audio": "clip_128_Sharing_6.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_7",
+    "text": "Dan seperti permainan Cailan gong sebelumnya, permainan ini biasanya dimainkan di bawah terangnya bulan dan bilang makhluk halus itu datang.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_128_Sharing_7.mp4",
+    "audio": "clip_128_Sharing_7.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_8",
+    "text": "Makhluk tersebut akan memperkenalkan siapa dirinya dan bercerita dengan menggunakan alat tulis bentuk dan diwan.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_128_Sharing_8.mp4",
+    "audio": "clip_128_Sharing_8.wav"
+  },
+  {
+    "sample_id": "clip_128_Sharing_9",
+    "text": "Pertanyaan-pertanyaan yang diajukan pun beragam-ragam merayakan.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_128_Sharing_9.mp4",
+    "audio": "clip_128_Sharing_9.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_1",
+    "text": "Hello guys, apa kabar?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_144_Sharing_1.mp4",
+    "audio": "clip_144_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_10",
+    "text": "ya, pasti mereka banget galak kalau kamu tersebut nama mantan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_144_Sharing_10.mp4",
+    "audio": "clip_144_Sharing_10.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_11",
+    "text": "Ok guys.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_144_Sharing_11.mp4",
+    "audio": "clip_144_Sharing_11.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_12",
+    "text": "I can't wait to see her reaction ya.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_144_Sharing_12.mp4",
+    "audio": "clip_144_Sharing_12.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_13",
+    "text": "Ok, kalian jangan ke mana-mana.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_144_Sharing_13.mp4",
+    "audio": "clip_144_Sharing_13.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_14",
+    "text": "Jangan lupa subscribe channel ini dan jangan lupa follow Instagram aku sama Instagram bini aku ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_144_Sharing_14.mp4",
+    "audio": "clip_144_Sharing_14.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_15",
+    "text": "Ok, samapi jumpa di video.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_144_Sharing_15.mp4",
+    "audio": "clip_144_Sharing_15.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_2",
+    "text": "Hari ini aku mau kerjain bini gue.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_144_Sharing_2.mp4",
+    "audio": "clip_144_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_3",
+    "text": "Nanti kalau dia lakukan apa aja, nanti aku tersebut nama mantan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_144_Sharing_3.mp4",
+    "audio": "clip_144_Sharing_3.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_4",
+    "text": "Aku mau lihat reaksinya kayak gimana ya?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_144_Sharing_4.mp4",
+    "audio": "clip_144_Sharing_4.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_5",
+    "text": "Muka dia merah atau dia galak lagi sama aku gimana ya?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_144_Sharing_5.mp4",
+    "audio": "clip_144_Sharing_5.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_6",
+    "text": "Karena kemarin aku kena prank.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_144_Sharing_6.mp4",
+    "audio": "clip_144_Sharing_6.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_7",
+    "text": "Aku hampir nangis ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_144_Sharing_7.mp4",
+    "audio": "clip_144_Sharing_7.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_8",
+    "text": "dan aku mau balas prank dia ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_144_Sharing_8.mp4",
+    "audio": "clip_144_Sharing_8.wav"
+  },
+  {
+    "sample_id": "clip_144_Sharing_9",
+    "text": "Aku tahu kalau cewek-cewek di mana aja walaupun kalau mereka baik banget,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_144_Sharing_9.mp4",
+    "audio": "clip_144_Sharing_9.wav"
+  },
+  {
+    "sample_id": "clip_14_Product_1",
+    "text": "tas Chanel yang asli dengan yang tidak asli",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_14_Product_1.mp4",
+    "audio": "clip_14_Product_1.wav"
+  },
+  {
+    "sample_id": "clip_14_Product_2",
+    "text": "nah jadi ceritanya ini vedio kali ini terlatarbelakangi sama banyak ya pertanyaan yang masuk ke saya",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_14_Product_2.mp4",
+    "audio": "clip_14_Product_2.wav"
+  },
+  {
+    "sample_id": "clip_14_Product_3",
+    "text": "gimana caranya membedakan tas-tas branded yang asli sama yang tidak asli, dan kebetulan beberapa bulan yang lalu salah satu teman saya baru aja ketipu satu penjual tas gitu saat dia mencari tas-tas beloved\"\"",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_14_Product_3.mp4",
+    "audio": "clip_14_Product_3.wav"
+  },
+  {
+    "sample_id": "clip_14_Product_4",
+    "text": "terus ? saya tergiur sama salah satu online-shop yang menjual tas-tas branded yang katanya lagi diskon kede-kedean",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_14_Product_4.mp4",
+    "audio": "clip_14_Product_4.wav"
+  },
+  {
+    "sample_id": "clip_14_Product_5",
+    "text": "teman saya ini membayar sekitar 5 juta untuk tas Chanel ? Classic Fabric\", ternyata yang datang ini adalah barang yang palsu, jadi mungkin saya memberikan vedio ini untuk membandingkan antara yang asli dengan yang tidak asli\"",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_14_Product_5.mp4",
+    "audio": "clip_14_Product_5.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_1",
+    "text": "Moderator adalah seseorang, gitu ya, yang sudah kita pilih untuk menjadi penjembatan pengontrol, pengendali dari sebuah diskusi.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_151_Tutorials_1.mp4",
+    "audio": "clip_151_Tutorials_1.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_10",
+    "text": "Yang terhormat Ibu Rima Kusuma Dewi Selaku Kaprodi dari D3 Kebidanan Universitas Muhammadiyah Makassar.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_151_Tutorials_10.mp4",
+    "audio": "clip_151_Tutorials_10.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_11",
+    "text": "Kemudian yang kami hormati Bapak Taufik Kurniawan selaku Wakil Ketua dari Yayasan...bla bla bla.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_151_Tutorials_11.mp4",
+    "audio": "clip_151_Tutorials_11.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_12",
+    "text": "Seperti itu, dan juga tak lupa kita juga perlu mengucapkan terima kasih bagi seluruh peserta yang sudah sama-sama hadir pada kesempatan yang berbahagia ini.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_12.mp4",
+    "audio": "clip_151_Tutorials_12.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_2",
+    "text": "Nah, katakanlah kita sedang membahas bagaimana untuk menjadi moderator tentang seminar online yang kita adakan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_2.mp4",
+    "audio": "clip_151_Tutorials_2.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_3",
+    "text": "Jadi beliau adalah orang yang setelah host kemudian bertugas mengendalikan jalannya diskusi.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_3.mp4",
+    "audio": "clip_151_Tutorials_3.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_4",
+    "text": "Oleh karenanya, banyak juga hal-hal yang harus diperhatikan oleh seorang moderator, diantaranya adalah :",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_4.mp4",
+    "audio": "clip_151_Tutorials_4.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_5",
+    "text": "Pertama, moderator harus memberikan terima kasih kepada host yang sudah memperkenankan mangambil alih acara",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_5.mp4",
+    "audio": "clip_151_Tutorials_5.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_6",
+    "text": "Seperti ini, 'baik terima kasih kepada mba nifah selaku host terkece kita pada pagi hari ini yang telah memberikan kesempatan kepada saya untuk melanjutkan rangkaian acara pada pagi hari ini'.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_6.mp4",
+    "audio": "clip_151_Tutorials_6.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_7",
+    "text": "Sesimple itu, ucapkan terima kasih kepada host yang sudah mempersilahkan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_7.mp4",
+    "audio": "clip_151_Tutorials_7.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_8",
+    "text": "Hal yang kedua, kita akan menyapa seluruh para tamu undangan, kadang-kadang seperti gitu atau mungkin ada keynote speaker yang kemudian hadir pada seminar online kita.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_8.mp4",
+    "audio": "clip_151_Tutorials_8.wav"
+  },
+  {
+    "sample_id": "clip_151_Tutorials_9",
+    "text": "Baik, pertama-tama izinkanlah saya menyapa Bapak Ibu yang sudah sama-sama hadir pada siang hari ini.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_151_Tutorials_9.mp4",
+    "audio": "clip_151_Tutorials_9.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_1",
+    "text": "Kenapa sih seorang moderator itu harus punya pengetahuan yang relate sama isu yang akan dibahas,",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_1.mp4",
+    "audio": "clip_152_Tutorials_1.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_10",
+    "text": "Yang pertama adalah membuka jalannya diskusi dengan memperkenalkan topik dan juga memperkenalkan pembicaranya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_10.mp4",
+    "audio": "clip_152_Tutorials_10.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_11",
+    "text": "Kemudian memandu jalannya Q&A sesion atau sesi tanya jawab.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_11.mp4",
+    "audio": "clip_152_Tutorials_11.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_12",
+    "text": "Nah setelah itu, memberikan kesimpulan dan menutup sebuah diskusi. Itu aja sebenarnya tugas dari moderator.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_12.mp4",
+    "audio": "clip_152_Tutorials_12.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_2",
+    "text": "karena nanti kan tugas itu akan menggali informasi dari pembicara.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_2.mp4",
+    "audio": "clip_152_Tutorials_2.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_3",
+    "text": "Kemudian mengatur jalannya diskusi supaya diskusinya maksimal dan penonton atau audience sih bisa belajar banyak dari diskusi tersebut.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_3.mp4",
+    "audio": "clip_152_Tutorials_3.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_4",
+    "text": "Nah, hal ini tidak bisa dilakukan oleh orang yang tidak paham tentang isunya.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_4.mp4",
+    "audio": "clip_152_Tutorials_4.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_5",
+    "text": "Dan pengetahuan atau background tentang isu ini adalah sesuatu yang tidak bisa kita pelajari over night.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_5.mp4",
+    "audio": "clip_152_Tutorials_5.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_6",
+    "text": "Jadi kalau aku sih personally, kalau memang aku diminta untuk menjadi seorang moderator dan kira-kira temanya tuh jauh dari expertise aku.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_6.mp4",
+    "audio": "clip_152_Tutorials_6.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_7",
+    "text": "Aku pasti akan merekomendasikan orang lain yang mungkin lebih rileks dengan materi yang akan dibahas.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_7.mp4",
+    "audio": "clip_152_Tutorials_7.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_8",
+    "text": "Ok selanjutnya kita bahas dulu nih, apa aja sih tugas seseorang moderator itu?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_8.mp4",
+    "audio": "clip_152_Tutorials_8.wav"
+  },
+  {
+    "sample_id": "clip_152_Tutorials_9",
+    "text": "Sebenernya sih over all cuman ada 3.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_152_Tutorials_9.mp4",
+    "audio": "clip_152_Tutorials_9.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_1",
+    "text": "Halo sahabat juara, balik lagi dengan saya Nani Muftihah di Arena Lomba, berbagi Informasi untuk Indonesia berprestasi.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_153_Tutorials_1.mp4",
+    "audio": "clip_153_Tutorials_1.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_2",
+    "text": "Jangan lupa sebelum tonton video ini Like, Comment dan Subscribe, dan jangan lupa tekan loncengnya biar kalian gak ketinggalan info-info terbaru dari Arena lomba.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_153_Tutorials_2.mp4",
+    "audio": "clip_153_Tutorials_2.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_3",
+    "text": "Oke, sahabat juara, di video kali ini kita akan membahas tema--cara menyusun naskah pidato.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_153_Tutorials_3.mp4",
+    "audio": "clip_153_Tutorials_3.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_4",
+    "text": "Oke, kenapa kita harus membahas cara menyusun naskah pidato?",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_153_Tutorials_4.mp4",
+    "audio": "clip_153_Tutorials_4.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_5",
+    "text": "Karena lomba pitado itu nggak melulu tentang cara berpidatonya.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_153_Tutorials_5.mp4",
+    "audio": "clip_153_Tutorials_5.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_6",
+    "text": "Soalnya ada juga lomba tentang naskah pidato ya, jadi yang dinilai itu bukan penampilan kalian saat berpidato tapi dari hasil tulisan kalian tentang naskah pidatonya itu sendiri.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_153_Tutorials_6.mp4",
+    "audio": "clip_153_Tutorials_6.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_7",
+    "text": "Baik, kelas tentang cara menyusun naskah pidato mulai aja.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_153_Tutorials_7.mp4",
+    "audio": "clip_153_Tutorials_7.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_8",
+    "text": "Yang pertama: Menentukan tema.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_153_Tutorials_8.mp4",
+    "audio": "clip_153_Tutorials_8.wav"
+  },
+  {
+    "sample_id": "clip_153_Tutorials_9",
+    "text": "Nah seperti biasanya setiap kali kita akan menulis yang pertama harus diperhatikan adalah tentang tema.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_153_Tutorials_9.mp4",
+    "audio": "clip_153_Tutorials_9.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_1",
+    "text": "Nah jadi setelah kau melulus rikmin awal atau didaftaran",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_1.mp4",
+    "audio": "clip_159_Health_1.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_10",
+    "text": "Itu memang pas pada saat awal daftar, sudah ada dilakukan tes.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_10.mp4",
+    "audio": "clip_159_Health_10.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_11",
+    "text": "Tapi di kesehatan awal, kita pertama dites dulu.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_11.mp4",
+    "audio": "clip_159_Health_11.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_12",
+    "text": "Diukur tinggi badannya berapa dan berat badannya berapa.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_12.mp4",
+    "audio": "clip_159_Health_12.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_13",
+    "text": "Kalau untuk maksimal dan minimumnya, itu telah kujelasin di videonya sebelumnya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_13.mp4",
+    "audio": "clip_159_Health_13.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_14",
+    "text": "Selain itu, tekanan darah.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_14.mp4",
+    "audio": "clip_159_Health_14.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_15",
+    "text": "Kemudian beralih ke yang berikutnya itu ada gigi dan mata.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_15.mp4",
+    "audio": "clip_159_Health_15.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_16",
+    "text": "Ini langsung diperiksa oleh dokter yang berkompeten di bidang tersebut.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_16.mp4",
+    "audio": "clip_159_Health_16.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_17",
+    "text": "Nah untuk mata, kita tahu, itu nanti kita dikasih lihat huruf.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_17.mp4",
+    "audio": "clip_159_Health_17.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_18",
+    "text": "Huruf-huruf yang besar dan kecil.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_18.mp4",
+    "audio": "clip_159_Health_18.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_2",
+    "text": "kamu akan menjalani tes kesehatan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_2.mp4",
+    "audio": "clip_159_Health_2.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_3",
+    "text": "Tes kesehatan itu ada dua.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_3.mp4",
+    "audio": "clip_159_Health_3.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_4",
+    "text": "Yang pertama tes kesehatan awal dan yang terakhir.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_4.mp4",
+    "audio": "clip_159_Health_4.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_5",
+    "text": "Tes kesehatan akhir itu setelah menjalani seluruh tesnya seperti akademik psikotes jasmani,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_5.mp4",
+    "audio": "clip_159_Health_5.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_6",
+    "text": "nah baru tes kesehatan yang akhir.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_6.mp4",
+    "audio": "clip_159_Health_6.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_7",
+    "text": "Nah, kujelasin tes kesehatan awal itu.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_7.mp4",
+    "audio": "clip_159_Health_7.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_8",
+    "text": "Nah yang pertama, kan kita di tes lagi,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_8.mp4",
+    "audio": "clip_159_Health_8.wav"
+  },
+  {
+    "sample_id": "clip_159_Health_9",
+    "text": "atau diukur urine, masalah tinggi dan berat badan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_159_Health_9.mp4",
+    "audio": "clip_159_Health_9.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_1",
+    "text": "Hello, saya Bandung Oppa.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_1.mp4",
+    "audio": "clip_160_Health_1.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_10",
+    "text": "Kalau gitu pasti kalian setelah seminggu bisa baca tulisan Korea dan,",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_160_Health_10.mp4",
+    "audio": "clip_160_Health_10.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_11",
+    "text": "kalau dengar Kpop,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_11.mp4",
+    "audio": "clip_160_Health_11.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_12",
+    "text": "ya belum tahu artinya apa,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_12.mp4",
+    "audio": "clip_160_Health_12.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_13",
+    "text": "tapi kalau dengar ya bisa tulis lirik dengan bahasa Korea.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_13.mp4",
+    "audio": "clip_160_Health_13.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_14",
+    "text": "Ok, kalau gitu percaya saya dan ayo kita belajar bahasa Korea bersama.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_160_Health_14.mp4",
+    "audio": "clip_160_Health_14.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_15",
+    "text": "Ya, senang ya senang kan?",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_160_Health_15.mp4",
+    "audio": "clip_160_Health_15.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_16",
+    "text": "Ayo.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_160_Health_16.mp4",
+    "audio": "clip_160_Health_16.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_17",
+    "text": "Ok, kelas pertama.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_17.mp4",
+    "audio": "clip_160_Health_17.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_18",
+    "text": "Kelas pertama saya bakal mengajar konsep Hangeul.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_18.mp4",
+    "audio": "clip_160_Health_18.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_19",
+    "text": "mulai dari kelas pertama.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_19.mp4",
+    "audio": "clip_160_Health_19.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_2",
+    "text": "Kalian baru-baru ini yang ada di rumah saja kan?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_2.mp4",
+    "audio": "clip_160_Health_2.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_3",
+    "text": "Makanya bosan dan tenaga lelah juga.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_160_Health_3.mp4",
+    "audio": "clip_160_Health_3.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_4",
+    "text": "Makanya saya memutuskannya jadi kursus bahasa buat kalian.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_4.mp4",
+    "audio": "clip_160_Health_4.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_5",
+    "text": "Ya, sampai sekarang banyak yang minta saya mengajar bahasa Korea kan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_5.mp4",
+    "audio": "clip_160_Health_5.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_6",
+    "text": "Makanya saya coba ya dan",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_6.mp4",
+    "audio": "clip_160_Health_6.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_7",
+    "text": "saya yakin ya jika kalian belajar sama saya cuma seminggu saja,",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_160_Health_7.mp4",
+    "audio": "clip_160_Health_7.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_8",
+    "text": "sebenarnya tiga hari bisa,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_160_Health_8.mp4",
+    "audio": "clip_160_Health_8.wav"
+  },
+  {
+    "sample_id": "clip_160_Health_9",
+    "text": "tapi seminggu saja.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_160_Health_9.mp4",
+    "audio": "clip_160_Health_9.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_1",
+    "text": "Teruntuk teman temanku yang masih memiliki kewajiban untuk pergi ke luar rumah,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_165_Health_1.mp4",
+    "audio": "clip_165_Health_1.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_10",
+    "text": "Yang mandiin lo, yang nguburin lo, orang catering di tahlian lo kena Ya Allah jahat banget lo,",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_165_Health_10.mp4",
+    "audio": "clip_165_Health_10.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_11",
+    "text": "dia gak ngerti apa apa lo, cuman bungkusin leumper doang kena, beda cerita kalau lu udah waspada pasti ada penanganananya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_165_Health_11.mp4",
+    "audio": "clip_165_Health_11.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_12",
+    "text": "Kita juga perlu diarahin buat social distancing yang bisa ngikutin dan nurut tolong.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_165_Health_12.mp4",
+    "audio": "clip_165_Health_12.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_13",
+    "text": "Ada orang batuk udah hindarin tuh, jangan ada yang batuk lo tegur, wei batuk pak haji, yach lo kena korona lo, jangan sampai meninggal karena bencana.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_165_Health_13.mp4",
+    "audio": "clip_165_Health_13.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_14",
+    "text": "Udah ada porsinya masing masing nih, dokter nyembuhin, pemerintah ngatur,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_165_Health_14.mp4",
+    "audio": "clip_165_Health_14.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_15",
+    "text": "kita pasien nurut ama arahan, lo kalau pasien bandel, dokternya ngambek, kita sembunyi gimana bos.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "positif",
+    "video": "clip_165_Health_15.mp4",
+    "audio": "clip_165_Health_15.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_2",
+    "text": "mohon hati hati kesehatannya dijaga,",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "positif",
+    "video": "clip_165_Health_2.mp4",
+    "audio": "clip_165_Health_2.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_3",
+    "text": "dan untuk teman temanku yang masih suka bilang, eiila tang, santai aja,",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_165_Health_3.mp4",
+    "audio": "clip_165_Health_3.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_4",
+    "text": "nyawa kita ditangan tuhan, watt paman boboho, kalau memang itu prinsip ente, noh lo jongkok di tengah jalan toll sambal bilang nyawa kita di tangan tuhan,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_165_Health_4.mp4",
+    "audio": "clip_165_Health_4.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_5",
+    "text": "kalau gak dicipokin nova loch , emang nyawa kita di tangan Tuhan, cuman kan harus usaha kitanya,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_165_Health_5.mp4",
+    "audio": "clip_165_Health_5.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_6",
+    "text": "ada ikhtiar sebelum tawakkal, nah makanya lo pas pelajaran agama jangan maen QIU QIU lo, kagak masuk di kepala lo,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_165_Health_6.mp4",
+    "audio": "clip_165_Health_6.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_7",
+    "text": "tapi gua gak apa apa tang gua kalau meninggal, yach gua juga gak apa apa kalau lo meninggal.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_165_Health_7.mp4",
+    "audio": "clip_165_Health_7.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_8",
+    "text": "asal lo meninggal jasad lo nguap gitu ngilah lah,",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_165_Health_8.mp4",
+    "audio": "clip_165_Health_8.wav"
+  },
+  {
+    "sample_id": "clip_165_Health_9",
+    "text": "lo kalau meninggal karena ngeremihin korona, yang lain bisa kena.",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_165_Health_9.mp4",
+    "audio": "clip_165_Health_9.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_1",
+    "text": "Makanya perkara yang menjadikan wanita dimasukan ke neraka itu apa?",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_1.mp4",
+    "audio": "clip_167_Family_1.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_10",
+    "text": "dan aku mendapati sebagian besar dari neraka itu adalah kalangan wanita.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_10.mp4",
+    "audio": "clip_167_Family_10.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_11",
+    "text": "Apakah mereka kufur kepada Allah SWT?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_11.mp4",
+    "audio": "clip_167_Family_11.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_12",
+    "text": "Mereka kufur kepada suaminya dan perbuatan pengen suaminya.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_12.mp4",
+    "audio": "clip_167_Family_12.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_13",
+    "text": "Kalau ada seorang suami yang berbuat baik kepada istrinya,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_13.mp4",
+    "audio": "clip_167_Family_13.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_14",
+    "text": "tiba-tiba melakukan satu kesalahan saja.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_14.mp4",
+    "audio": "clip_167_Family_14.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_15",
+    "text": "Cepatnya seorang wanita untuk berkata.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_15.mp4",
+    "audio": "clip_167_Family_15.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_16",
+    "text": "Jadilah tidak ada pengennya sama sekali.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_16.mp4",
+    "audio": "clip_167_Family_16.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_2",
+    "text": "Bukan karena dia kufur, bukan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_2.mp4",
+    "audio": "clip_167_Family_2.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_3",
+    "text": "Bukan karena dia zina, nggak.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_3.mp4",
+    "audio": "clip_167_Family_3.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_4",
+    "text": "Bukan karena dia membuka aurat.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_4.mp4",
+    "audio": "clip_167_Family_4.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_5",
+    "text": "Ya, itu juga menyebabkan masalah tetangga, tapi bukan itu yang paling besar yang memasukkan wanita ke dalam neraka.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_167_Family_5.mp4",
+    "audio": "clip_167_Family_5.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_6",
+    "text": "Apa kata Rasulullah?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_6.mp4",
+    "audio": "clip_167_Family_6.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_7",
+    "text": "Sebagaimana Nabi bersabda,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_7.mp4",
+    "audio": "clip_167_Family_7.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_8",
+    "text": "mungkin sebagian besar katanya sudah kita paham.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_8.mp4",
+    "audio": "clip_167_Family_8.wav"
+  },
+  {
+    "sample_id": "clip_167_Family_9",
+    "text": "Aku melihat dan melongok kepada neraka,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_167_Family_9.mp4",
+    "audio": "clip_167_Family_9.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_1",
+    "text": "Yo, selamat datang ke channelku. Hari ini aku mau baca komentar dari hater.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_179_Blogger_1.mp4",
+    "audio": "clip_179_Blogger_1.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_10",
+    "text": "Ya, kadang-kadang, aku bikin duit atau uang untuk laguku,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_10.mp4",
+    "audio": "clip_179_Blogger_10.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_11",
+    "text": "tapi kalau aku bikin duit selama laguku selalu aku bikin donasi untuk orang miskin di Indonesia,",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_11.mp4",
+    "audio": "clip_179_Blogger_11.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_12",
+    "text": "karena aku punya job, aku kerja di kantor.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_12.mp4",
+    "audio": "clip_179_Blogger_12.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_13",
+    "text": "Tapi kalau aku bikin uang dari musicku, aku bikin donasi untuk orang miskin.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_13.mp4",
+    "audio": "clip_179_Blogger_13.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_14",
+    "text": "Itu masalah untuk kamu?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_14.mp4",
+    "audio": "clip_179_Blogger_14.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_2",
+    "text": "Firgi Firmansyah,'Bullshit...bodo amat.'",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_179_Blogger_2.mp4",
+    "audio": "clip_179_Blogger_2.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_3",
+    "text": "Mantap.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_179_Blogger_3.mp4",
+    "audio": "clip_179_Blogger_3.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_4",
+    "text": "Sok sok an mau bahasa Indonesia bilang aja klo mau ngejajah lgi, sorry bule kampret kami kgk takut.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_179_Blogger_4.mp4",
+    "audio": "clip_179_Blogger_4.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_5",
+    "text": "Kamu tidak perlu takut, aku orang baik, aku tidak mau begin ngejajah lagi.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_179_Blogger_5.mp4",
+    "audio": "clip_179_Blogger_5.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_6",
+    "text": "Tidak apa-apa, aku cinta Indonesia dan aku suka merdeka untuk Indonesia.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_6.mp4",
+    "audio": "clip_179_Blogger_6.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_7",
+    "text": "Mufqi Eka Pratama: Coba yg nyanyo orang Indo, makian kayanya yg ada...",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_7.mp4",
+    "audio": "clip_179_Blogger_7.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_8",
+    "text": "Woh, aku jadi galau.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_179_Blogger_8.mp4",
+    "audio": "clip_179_Blogger_8.wav"
+  },
+  {
+    "sample_id": "clip_179_Blogger_9",
+    "text": "Varian Maulana: jangan mau dibodohi bro, cuman modal omong doang cinta Indonesia, bikin lagu, dapet duit.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_179_Blogger_9.mp4",
+    "audio": "clip_179_Blogger_9.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_1",
+    "text": "Hi Beauty Entrepreneurs.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_183_Makeup_1.mp4",
+    "audio": "clip_183_Makeup_1.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_10",
+    "text": "Ini wajib dimiliki sebelum memproduksi kosmetik.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_10.mp4",
+    "audio": "clip_183_Makeup_10.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_11",
+    "text": "Artinya, sini tidak melihat ya apakah dibuat di rumah ataupun dibuat di ruko, besar atau kecil produksinya, ternyata untuk pembuatan kosmetik itu harus memiliki izin produksi.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_11.mp4",
+    "audio": "clip_183_Makeup_11.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_2",
+    "text": "Kembali lagi dengan saya Verra Oktavianti, Beauty Brand Consultant.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_183_Makeup_2.mp4",
+    "audio": "clip_183_Makeup_2.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_3",
+    "text": "Kali ini saya akan membahas pertanyaan dari teman-teman yang sudah masuk di YouTube maupun di akun Instagram saya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_3.mp4",
+    "audio": "clip_183_Makeup_3.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_4",
+    "text": "Banyak juga teman-teman yang menanyakan tentang izin BPOM ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_4.mp4",
+    "audio": "clip_183_Makeup_4.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_5",
+    "text": "Ok, walaupun sebenarnya di video ini saya fokusnya di brand dan marketing,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_5.mp4",
+    "audio": "clip_183_Makeup_5.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_6",
+    "text": "tapi saya juga harus membahas ini karena yang namanya legalitas itu penting banget ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_183_Makeup_6.mp4",
+    "audio": "clip_183_Makeup_6.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_7",
+    "text": "Apa ini adalah cara pembuatan kosmetik yang baik.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_7.mp4",
+    "audio": "clip_183_Makeup_7.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_8",
+    "text": "Kalau di obat, itu adalah CPOB, ini cara pembuatan obat yang baik.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_8.mp4",
+    "audio": "clip_183_Makeup_8.wav"
+  },
+  {
+    "sample_id": "clip_183_Makeup_9",
+    "text": "Jadi ini semacam sertifikasi sebagai standar modul cara pembuatan kosmetik yang baik.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_183_Makeup_9.mp4",
+    "audio": "clip_183_Makeup_9.wav"
+  },
+  {
+    "sample_id": "clip_24_Blogger_1",
+    "text": "Hi, semuanya. Assalamualaikum Waramatullahi Wabarakatuh. Selamat datang di video kedua.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_24_Blogger_1.mp4",
+    "audio": "clip_24_Blogger_1.wav"
+  },
+  {
+    "sample_id": "clip_24_Blogger_2",
+    "text": "Edisi beasiswa Turki karena yang kemarin itu aku udah share tentang seleksi administrasi, hari ini aku mau share tentang wawancara.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_24_Blogger_2.mp4",
+    "audio": "clip_24_Blogger_2.wav"
+  },
+  {
+    "sample_id": "clip_24_Blogger_3",
+    "text": "Nah di sini mungkin aku ngesharing pengalaman aja kemarin tahapan apa aja yang aku lalui terus kayak gimana-gimananya.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_24_Blogger_3.mp4",
+    "audio": "clip_24_Blogger_3.wav"
+  },
+  {
+    "sample_id": "clip_24_Blogger_4",
+    "text": "Jadi kemarin itu aku ambil seleksi di Jakarta.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_24_Blogger_4.mp4",
+    "audio": "clip_24_Blogger_4.wav"
+  },
+  {
+    "sample_id": "clip_24_Blogger_5",
+    "text": "Nah untuk waktunya itu, pengumuman wawancara dengan administrasi itu sekitar sebulan jadi kemarin kan kayak wawancaranya itu bulan. eh seleksi itu pengumumannya bulan Maret.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_24_Blogger_5.mp4",
+    "audio": "clip_24_Blogger_5.wav"
+  },
+  {
+    "sample_id": "clip_24_Blogger_6",
+    "text": "Terus seminggu kemudian langsung wawancara gitu jadi lumayan spend waktu itu lumayan dekatan antara pengumuman dan wawancara jadi kalian harus persiaokan dengan matang,",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_24_Blogger_6.mp4",
+    "audio": "clip_24_Blogger_6.wav"
+  },
+  {
+    "sample_id": "clip_24_Blogger_7",
+    "text": "Nah terus kemarin itu aku kebagian harik kedua jadi kemarin semuanya yang intervieweenya itu adalah mahasiswa atau participant untuk anak pascasarjana.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_24_Blogger_7.mp4",
+    "audio": "clip_24_Blogger_7.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_1",
+    "text": "Pagi hari ini aku akan bikin tutorial menggunakan best of local product",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_25_Tutorials_1.mp4",
+    "audio": "clip_25_Tutorials_1.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_10",
+    "text": "aku akan menggunakan dua primer lokal",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_25_Tutorials_10.mp4",
+    "audio": "clip_25_Tutorials_10.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_11",
+    "text": "yang pertama ini dari bumi nah sebenarnya itu bukan primer sebalik itu skincare itu ya",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_25_Tutorials_11.mp4",
+    "audio": "clip_25_Tutorials_11.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_2",
+    "text": "menurut saya pribadi kebetulan di channel saya jadi menurut saya pribadi aja gitu, tanpa melakukan riset",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_25_Tutorials_2.mp4",
+    "audio": "clip_25_Tutorials_2.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_3",
+    "text": "penjualan atau aku gimina tapi menurut aku ini yang terbaique product-product lokal",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_25_Tutorials_3.mp4",
+    "audio": "clip_25_Tutorials_3.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_4",
+    "text": "aku meminyakan semua yang di sini ini menurut aku udah ya kayak bagus banget",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_25_Tutorials_4.mp4",
+    "audio": "clip_25_Tutorials_4.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_5",
+    "text": "begitu nggak sama sekali",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_25_Tutorials_5.mp4",
+    "audio": "clip_25_Tutorials_5.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_6",
+    "text": "jadi memang sudah bagus. jadi jangan nonton video ini kalau mau nyari",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_25_Tutorials_6.mp4",
+    "audio": "clip_25_Tutorials_6.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_7",
+    "text": "produk yang jelek kan yang aku bikinin kalau kalian memang nggak mau produk-produk yang menurut aku agak kurang bagus itu aku bisa bikinin lagi buat kalian",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_25_Tutorials_7.mp4",
+    "audio": "clip_25_Tutorials_7.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_8",
+    "text": "cuman bukan hari ini",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_25_Tutorials_8.mp4",
+    "audio": "clip_25_Tutorials_8.wav"
+  },
+  {
+    "sample_id": "clip_25_Tutorials_9",
+    "text": "kita langsung mulai aja jadi pertama",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_25_Tutorials_9.mp4",
+    "audio": "clip_25_Tutorials_9.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_1",
+    "text": "Tentang ikan dan olahannya seperti apa.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_1.mp4",
+    "audio": "clip_2_Cooking_1.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_10",
+    "text": "Terus yang selanjutnya itu lemak dan minyak.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_10.mp4",
+    "audio": "clip_2_Cooking_10.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_11",
+    "text": "Ya, lemak dan minyak.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_11.mp4",
+    "audio": "clip_2_Cooking_11.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_12",
+    "text": "Terus ada serealia dan kacang-kacangan juga.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_12.mp4",
+    "audio": "clip_2_Cooking_12.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_13",
+    "text": "Nanti apa aja sih serealia itu.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_13.mp4",
+    "audio": "clip_2_Cooking_13.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_14",
+    "text": "Apa aja sih kacang-kacangan itu.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_14.mp4",
+    "audio": "clip_2_Cooking_14.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_15",
+    "text": "Nanti kita terangkan di bab selanjutnya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_15.mp4",
+    "audio": "clip_2_Cooking_15.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_16",
+    "text": "Terus ada sayuran dan buah-buahan juga.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_16.mp4",
+    "audio": "clip_2_Cooking_16.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_17",
+    "text": "Terus, nah yang lebih intinya, lebih kepada pokoknya itu,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_17.mp4",
+    "audio": "clip_2_Cooking_17.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_18",
+    "text": "kita harus tahu di dalam pelajaran PBM itu tentang bumbu, rempah dan bahan tambahan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_18.mp4",
+    "audio": "clip_2_Cooking_18.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_19",
+    "text": "Jadi kalian harus tahu nih,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_19.mp4",
+    "audio": "clip_2_Cooking_19.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_2",
+    "text": "Terus yang selanjutnya juga,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_2.mp4",
+    "audio": "clip_2_Cooking_2.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_20",
+    "text": "bumbu-bumbu yang akan digunakan di nanti masakan itu apa,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_20.mp4",
+    "audio": "clip_2_Cooking_20.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_21",
+    "text": "kayak misalkan,Bay Leaves, terus kita menggunakan bahasa Indonesia ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_21.mp4",
+    "audio": "clip_2_Cooking_21.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_22",
+    "text": "Yang istilahnya apa ya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_22.mp4",
+    "audio": "clip_2_Cooking_22.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_23",
+    "text": "Apa namanya?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_23.mp4",
+    "audio": "clip_2_Cooking_23.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_24",
+    "text": "Kayak laja.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_24.mp4",
+    "audio": "clip_2_Cooking_24.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_25",
+    "text": "Itu laja itu apa?",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_25.mp4",
+    "audio": "clip_2_Cooking_25.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_26",
+    "text": "Terus jadi kita menggunakan bahasa-bahasa",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_26.mp4",
+    "audio": "clip_2_Cooking_26.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_3",
+    "text": "ada susu, telur dan hasil olahannya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_3.mp4",
+    "audio": "clip_2_Cooking_3.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_4",
+    "text": "Jadi, telur itu nanti kita gambarkan,",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_4.mp4",
+    "audio": "clip_2_Cooking_4.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_5",
+    "text": "telur itu isi itu apa aja sih.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_2_Cooking_5.mp4",
+    "audio": "clip_2_Cooking_5.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_6",
+    "text": "Kalian kan pernah belajar waktu SMP.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_2_Cooking_6.mp4",
+    "audio": "clip_2_Cooking_6.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_7",
+    "text": "Itu, apa ada nama-nama telur di dalamnya itu seperti apa",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_7.mp4",
+    "audio": "clip_2_Cooking_7.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_8",
+    "text": "Terus susu juga, nanti kita diterangkan.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_8.mp4",
+    "audio": "clip_2_Cooking_8.wav"
+  },
+  {
+    "sample_id": "clip_2_Cooking_9",
+    "text": "Susu itu ada jenis-jenisnya.",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_2_Cooking_9.mp4",
+    "audio": "clip_2_Cooking_9.wav"
+  },
+  {
+    "sample_id": "clip_31_Tutorials_1",
+    "text": "Obat yang paling mujarab adalah hati yang bahagia.",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_31_Tutorials_1.mp4",
+    "audio": "clip_31_Tutorials_1.wav"
+  },
+  {
+    "sample_id": "clip_31_Tutorials_2",
+    "text": "Itu obat yang paling mujarab. Anda perhatikan rumah sakit jiwa itu isinya orang stres semua",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "positif",
+    "video": "clip_31_Tutorials_2.mp4",
+    "audio": "clip_31_Tutorials_2.wav"
+  },
+  {
+    "sample_id": "clip_31_Tutorials_3",
+    "text": "Dari stres, pikirannya stres, akhinya banyak tubuhnya menjadi bermasalah semua karena strukna, kena jantung koroner, kena apa, kenapa tidak ada yang sehat?",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_31_Tutorials_3.mp4",
+    "audio": "clip_31_Tutorials_3.wav"
+  },
+  {
+    "sample_id": "clip_31_Tutorials_4",
+    "text": "Kenapa awalnya dari tidak bisa bahagia?",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "positif",
+    "video": "clip_31_Tutorials_4.mp4",
+    "audio": "clip_31_Tutorials_4.wav"
+  },
+  {
+    "sample_id": "clip_31_Tutorials_5",
+    "text": "Hatinya nggak bahagia, pikiran pun nggak bahagia.",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_31_Tutorials_5.mp4",
+    "audio": "clip_31_Tutorials_5.wav"
+  },
+  {
+    "sample_id": "clip_31_Tutorials_6",
+    "text": "Nah saya yakin, kalau Anda mau menjadi enterprise yang sukses, Anda harus belajar berbahagia sekalipun dalam kondisi apa pun.",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_31_Tutorials_6.mp4",
+    "audio": "clip_31_Tutorials_6.wav"
+  },
+  {
+    "sample_id": "clip_31_Tutorials_7",
+    "text": "Ya,sekian, tips saya kali ini semoga Anda senantiasa setiap sehap bisa bahagia sukses untuk Anda, salam hebat luar biasa.",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_31_Tutorials_7.mp4",
+    "audio": "clip_31_Tutorials_7.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_1",
+    "text": "kalau ditanya sakit apa nggak, ya pasti sakit banget, bayangin aja jalan itu kayak di batu krikil",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_39_Health_1.mp4",
+    "audio": "clip_39_Health_1.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_10",
+    "text": "meregulasi di sini maksudnya imun yang tadi nyerang kita disuruh balik menjadi melindungi kita",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_10.mp4",
+    "audio": "clip_39_Health_10.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_11",
+    "text": "dan saya mencoba pengobatan tersebut yaitu dengan program save imun namanya",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_11.mp4",
+    "audio": "clip_39_Health_11.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_2",
+    "text": "terus mau gimana lagi, saya takut terhadap pengobatan steroi dan masih mencari-cari pengobatan pengobatan yang aman, salah satu sepertinya pengobatan herbal",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_2.mp4",
+    "audio": "clip_39_Health_2.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_3",
+    "text": "nyoba beberapa produk, ya itu buang-buang duit, nggak ada hasil sama sekali",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_3.mp4",
+    "audio": "clip_39_Health_3.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_4",
+    "text": "dan apa lagi kalau misal beli product MLM, yang dibilangnya bisa... dah kayak obat dewa dah kayak obat dari surga langsung",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_4.mp4",
+    "audio": "clip_39_Health_4.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_5",
+    "text": "nyatanya nggak ada perubah sama sekali ya udah, jalaninya aja",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_5.mp4",
+    "audio": "clip_39_Health_5.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_6",
+    "text": "hampir 3 tahun berdamai dengan penyakit autoimun",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_6.mp4",
+    "audio": "clip_39_Health_6.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_7",
+    "text": "berjalan dengan seperti diatas batu kerikil, jari bengkak, kemudian sendi pada sakit-sakit ketika bangun tidur",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_39_Health_7.mp4",
+    "audio": "clip_39_Health_7.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_8",
+    "text": "akhirnya pada pertengahan 2018",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_8.mp4",
+    "audio": "clip_39_Health_8.wav"
+  },
+  {
+    "sample_id": "clip_39_Health_9",
+    "text": "my brother Isbek dia melakukan penelitian di medis spanyol dan membawa obat yang dibilangnya bisa ngobatin dan meregulasi sistem imun",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_39_Health_9.mp4",
+    "audio": "clip_39_Health_9.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_1",
+    "text": "Eh dia sampai setelah sendiri dan akhirnya saya yang saya akan berusaha cari uang untuk kita bisa menikah.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_47_Family_1.mp4",
+    "audio": "clip_47_Family_1.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_2",
+    "text": "Saya pikir menikah adalah, menikah dengan kamu adalah satu-satunya jalan untuk bisa mengubahi hidup saya, menjadi pribadi yang lebih baik.",
+    "audio_label": "negatif",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_47_Family_2.mp4",
+    "audio": "clip_47_Family_2.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_3",
+    "text": "Jadi apa pun saya lakukan buat kamu untuk saya bisa menikah dengan kamu.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_47_Family_3.mp4",
+    "audio": "clip_47_Family_3.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_4",
+    "text": "Waktu saya melakukan hal itu, saya bener-bener hancur justru di seluruh kehidupan saya dari saya kecil sampai pada saat itu adalah ini bukan pernikahan yang saya mau.",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_47_Family_4.mp4",
+    "audio": "clip_47_Family_4.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_5",
+    "text": "Ini bener-bener saat itu adalah kehancuran saya bener-bener hancur.",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_47_Family_5.mp4",
+    "audio": "clip_47_Family_5.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_6",
+    "text": "Dan saya langsung terbuka mata saya sebenarnya.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_47_Family_6.mp4",
+    "audio": "clip_47_Family_6.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_7",
+    "text": "Berhenti ini bukan kasih saya yang ingin saya cari dong.",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_47_Family_7.mp4",
+    "audio": "clip_47_Family_7.wav"
+  },
+  {
+    "sample_id": "clip_47_Family_8",
+    "text": "Saya mau menikah mau hidup bener tapi kenapa malah saya hacur kacau seperti ini.",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_47_Family_8.mp4",
+    "audio": "clip_47_Family_8.wav"
+  },
+  {
+    "sample_id": "clip_49_Family_1",
+    "text": "intinya untuk mama, kalau satu hari aja mungkin nggak cukup untuk mengucapkan ataupun memberikan sayang yang tulus untuk mama sebagai gantinya memberikan sayang untuk Niar",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_49_Family_1.mp4",
+    "audio": "clip_49_Family_1.wav"
+  },
+  {
+    "sample_id": "clip_49_Family_2",
+    "text": "selamat Hari Ibu ma, di momen spesial ini terima kasih untuk segala,terima kasih untuk segala masukan mama",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_49_Family_2.mp4",
+    "audio": "clip_49_Family_2.wav"
+  },
+  {
+    "sample_id": "clip_49_Family_3",
+    "text": "pokoknya selamat Hari Ibu untuk mama dan selamat Hari Ibu juga untuk",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_49_Family_3.mp4",
+    "audio": "clip_49_Family_3.wav"
+  },
+  {
+    "sample_id": "clip_49_Family_4",
+    "text": "ya, terima kasih ma, intinya meskipun Niar suka debat, kalau samamu saya sering debat, tapi Niar sebetulnya sayang sama mama",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_49_Family_4.mp4",
+    "audio": "clip_49_Family_4.wav"
+  },
+  {
+    "sample_id": "clip_52_Family_1",
+    "text": "Setau saya sih, sampai jelas sih, sampai pukul ya mungkin yang nama dia nyari-nyari apa.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_52_Family_1.mp4",
+    "audio": "clip_52_Family_1.wav"
+  },
+  {
+    "sample_id": "clip_52_Family_2",
+    "text": "Barang bekas itu kan ke mana aja mungkin tanpa apa itu pasti lagi satu, mau lagi tujuaan nyaksi itu kan saya nggak tahu karena dia kan nggak bilang.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_52_Family_2.mp4",
+    "audio": "clip_52_Family_2.wav"
+  },
+  {
+    "sample_id": "clip_52_Family_3",
+    "text": "Alhamdulillah, buat makan, buat jajan anak masih ada.",
+    "audio_label": "negatif",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_52_Family_3.mp4",
+    "audio": "clip_52_Family_3.wav"
+  },
+  {
+    "sample_id": "clip_52_Family_4",
+    "text": "Cukup.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_52_Family_4.mp4",
+    "audio": "clip_52_Family_4.wav"
+  },
+  {
+    "sample_id": "clip_52_Family_5",
+    "text": "Saya belum selesai belum selesai juga kan, lagi nunggu panggilan lagi.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_52_Family_5.mp4",
+    "audio": "clip_52_Family_5.wav"
+  },
+  {
+    "sample_id": "clip_54_Family_1",
+    "text": "Assalamualaikum warahmatullahi wabarakatuh, saudaraku yang dicintai oleh Allah",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_54_Family_1.mp4",
+    "audio": "clip_54_Family_1.wav"
+  },
+  {
+    "sample_id": "clip_54_Family_2",
+    "text": "Kalau tidak mendengarkan kata-kata emosi dan marah",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_54_Family_2.mp4",
+    "audio": "clip_54_Family_2.wav"
+  },
+  {
+    "sample_id": "clip_54_Family_3",
+    "text": "tidak akan membayangkan seseorang dengan preman yang menakutkan",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_54_Family_3.mp4",
+    "audio": "clip_54_Family_3.wav"
+  },
+  {
+    "sample_id": "clip_54_Family_4",
+    "text": "Azan, kata-kata yang pas, tahukah kita, apa yang ada di balik seseorang jika dia emosional",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_54_Family_4.mp4",
+    "audio": "clip_54_Family_4.wav"
+  },
+  {
+    "sample_id": "clip_54_Family_5",
+    "text": "Marah yang selalu ada dia lakukan setiap saat ke istrinya",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_54_Family_5.mp4",
+    "audio": "clip_54_Family_5.wav"
+  },
+  {
+    "sample_id": "clip_59_Sharing_1",
+    "text": "karena sekarang alhamdullilah nah ini mujijik dari awal",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_59_Sharing_1.mp4",
+    "audio": "clip_59_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_59_Sharing_2",
+    "text": "saya diberikan keturunan, saya diberikan teman ketika mungkin saya merasa kesepian",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_59_Sharing_2.mp4",
+    "audio": "clip_59_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_59_Sharing_3",
+    "text": "Alloh kasih saya sebuah harapan yang luar biasa,sebuah",
+    "audio_label": "negatif",
+    "text_label": "positif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_59_Sharing_3.mp4",
+    "audio": "clip_59_Sharing_3.wav"
+  },
+  {
+    "sample_id": "clip_59_Sharing_4",
+    "text": "doa dari kesepian saya, saya diberikan keturunan",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_59_Sharing_4.mp4",
+    "audio": "clip_59_Sharing_4.wav"
+  },
+  {
+    "sample_id": "clip_59_Sharing_5",
+    "text": "dan ini alat kedua saya makanya saya pingin ke psikiater",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_59_Sharing_5.mp4",
+    "audio": "clip_59_Sharing_5.wav"
+  },
+  {
+    "sample_id": "clip_87_Society_1",
+    "text": "Kasihan, anak-anak kami yang telah menderita penyakit gatal-gatal.",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_87_Society_1.mp4",
+    "audio": "clip_87_Society_1.wav"
+  },
+  {
+    "sample_id": "clip_87_Society_2",
+    "text": "Terus, masak kami setiap hari itu harus beli air kan warga itu ini apa ya? Kerjanya itu cuman petani.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_87_Society_2.mp4",
+    "audio": "clip_87_Society_2.wav"
+  },
+  {
+    "sample_id": "clip_87_Society_3",
+    "text": "Jadi kayak penghasilan itu kalau ada musim tanam ada hasil. Kalau seperti sekarang ini nggak mendapatkan hasil sama sekali.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_87_Society_3.mp4",
+    "audio": "clip_87_Society_3.wav"
+  },
+  {
+    "sample_id": "clip_87_Society_4",
+    "text": "Makanya kami saya meminta Pak Jokowi untuk eh untuk apa ya menangani kasus di Lakertowo.",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_87_Society_4.mp4",
+    "audio": "clip_87_Society_4.wav"
+  },
+  {
+    "sample_id": "clip_92_Opinion_1",
+    "text": "Itu tanpa disadari orang akan langsung merespon bagaimana cara kita bergaul di saat awal yaitu ketika orang tuh lihat kita, kita udah tersenyum",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_92_Opinion_1.mp4",
+    "audio": "clip_92_Opinion_1.wav"
+  },
+  {
+    "sample_id": "clip_92_Opinion_2",
+    "text": "Halo pak, apa kabar, nah itu kan orang jadi beda itulah, nah sekarang kalau misalkan apa sih pentingnya mood ini, ini paling mendasar karena nanti",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_92_Opinion_2.mp4",
+    "audio": "clip_92_Opinion_2.wav"
+  },
+  {
+    "sample_id": "clip_92_Opinion_3",
+    "text": "di langkah-langkah yang berikutnya ketika kita udah menyiapkan mood kita yang lebih enak yang lebih santai bahkan dengan mood kalau saya boleh boleh berikan sesuatu yang lebih detail adalah mood anda ingin berteman, berkenalan dengan orang",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_92_Opinion_3.mp4",
+    "audio": "clip_92_Opinion_3.wav"
+  },
+  {
+    "sample_id": "clip_92_Opinion_4",
+    "text": "Nah, hal yang paling mendasar dan mudah sebetulnya orang akan suka bergaul dengan orang yang menyenangkan gitunya",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_92_Opinion_4.mp4",
+    "audio": "clip_92_Opinion_4.wav"
+  },
+  {
+    "sample_id": "clip_92_Opinion_5",
+    "text": "Iya kan, nah kita ciptakan dulu mood kita yang nantinya akan terpancar ketika kita berkomunikasi dengan orang, bahasa tubuh kita, udah dapat mata, jadi orang jadi senang dengan kita",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_92_Opinion_5.mp4",
+    "audio": "clip_92_Opinion_5.wav"
+  },
+  {
+    "sample_id": "clip_96_Opinion_1",
+    "text": "pikiran negatif artinya begini: kalau anda melihat sesuatu, anda punya dua pilihan, satu melihat sisi positif, dua sisi negatif",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_96_Opinion_1.mp4",
+    "audio": "clip_96_Opinion_1.wav"
+  },
+  {
+    "sample_id": "clip_96_Opinion_2",
+    "text": "kalau anda naik mobil anda disalip, anda bisa menilai dari sisi positif, positifnya begini",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_96_Opinion_2.mp4",
+    "audio": "clip_96_Opinion_2.wav"
+  },
+  {
+    "sample_id": "clip_96_Opinion_3",
+    "text": "mungkin orang itu sedang terburu-buru, mungkin orang itu sedang antar orang sakit, mungkin orang itu sedang stres, itu namanya positif",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_96_Opinion_3.mp4",
+    "audio": "clip_96_Opinion_3.wav"
+  },
+  {
+    "sample_id": "clip_96_Opinion_4",
+    "text": "tapi kalau negatif, kita bilang kurang ajar\" \"harus dibalas\" atau \"kita kejar aja\" \"kita tegor aja\"\"",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_96_Opinion_4.mp4",
+    "audio": "clip_96_Opinion_4.wav"
+  },
+  {
+    "sample_id": "clip_96_Opinion_5",
+    "text": "anda membuang pikiran negatif supaya anda tetap bisa menjadi orang yang lebih positif",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_96_Opinion_5.mp4",
+    "audio": "clip_96_Opinion_5.wav"
+  },
+  {
+    "sample_id": "clip_96_Opinion_6",
+    "text": "positif negatif nggak bisa jadi satu, kalau anda berpikir positif, pikiran negatif biasanya hilang",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_96_Opinion_6.mp4",
+    "audio": "clip_96_Opinion_6.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_1",
+    "text": "kepada para relawan dan pendukung Ahod",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_97_Opinion_1.mp4",
+    "audio": "clip_97_Opinion_1.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_2",
+    "text": "yang saya cintai, semua mereka yang telah menjalankan proses demokrasi di mana pun berada",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_97_Opinion_2.mp4",
+    "audio": "clip_97_Opinion_2.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_3",
+    "text": "saya telah banyak berpikir tantang kejadian yang saya alami",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_97_Opinion_3.mp4",
+    "audio": "clip_97_Opinion_3.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_4",
+    "text": "saya mau berterima kaish kepada suadara-suadara yang terus medukung saya dalam doa",
+    "audio_label": "negatif",
+    "text_label": "positif",
+    "video_label": "netral",
+    "label": "negatif",
+    "video": "clip_97_Opinion_4.mp4",
+    "audio": "clip_97_Opinion_4.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_5",
+    "text": "kiriman bunga, makanan",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_97_Opinion_5.mp4",
+    "audio": "clip_97_Opinion_5.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_6",
+    "text": "kartu ucapan, surat, buku-buku, bahkan dengan berkumpul menyalakan lilin",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_97_Opinion_6.mp4",
+    "audio": "clip_97_Opinion_6.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_7",
+    "text": "saya tahu tidak mudah bagi saudara menerima kenyataan seperti ini, apalagi saya",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_97_Opinion_7.mp4",
+    "audio": "clip_97_Opinion_7.wav"
+  },
+  {
+    "sample_id": "clip_97_Opinion_8",
+    "text": "tetapi saya telah belajar mengampuni dan menerima semua ini",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_97_Opinion_8.mp4",
+    "audio": "clip_97_Opinion_8.wav"
+  },
+  {
+    "sample_id": "clip_188_Sharing_1",
+    "text": "Wah ternyata timku masuk final",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_188_Sharing_1.mp4",
+    "audio": "clip_188_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_1",
+    "text": "Sempat ngerem Wak",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_1.mp4",
+    "audio": "clip_189_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_2",
+    "text": "Suara benturan keras itu pun bikin mereka berdua teriak",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_2.mp4",
+    "audio": "clip_189_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_3",
+    "text": "Ah kaget gitu semua ya kan",
+    "audio_label": "positif",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "positif",
+    "video": "clip_189_Sharing_3.mp4",
+    "audio": "clip_189_Sharing_3.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_4",
+    "text": "Pia langsung gemetar jantungnya berdebar kencang",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_4.mp4",
+    "audio": "clip_189_Sharing_4.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_5",
+    "text": "Win, Win astaga gimana nih cewek itu jatuh ketabrak",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_5.mp4",
+    "audio": "clip_189_Sharing_5.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_6",
+    "text": "Apa kita mau di rumah sakit aja ya",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_6.mp4",
+    "audio": "clip_189_Sharing_6.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_7",
+    "text": "Bukannya bantu Wak Darwin ini malah nyalahin Pia",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_7.mp4",
+    "audio": "clip_189_Sharing_7.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_8",
+    "text": "Kamu sih nyetirnya gak fokus",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_8.mp4",
+    "audio": "clip_189_Sharing_8.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_9",
+    "text": "Udah-udah jangan keluar",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_9.mp4",
+    "audio": "clip_189_Sharing_9.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_10",
+    "text": "Mending putar balik aja sekarang",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_10.mp4",
+    "audio": "clip_189_Sharing_10.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_11",
+    "text": "Mumpung belum ada yang ngeliat",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_11.mp4",
+    "audio": "clip_189_Sharing_11.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_12",
+    "text": "Kata si Darwin Wak",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_12.mp4",
+    "audio": "clip_189_Sharing_12.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_13",
+    "text": "Nah kebetulan di jalan itu memang cuma ada mobil mereka aja",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_13.mp4",
+    "audio": "clip_189_Sharing_13.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_14",
+    "text": "Jadi mereka punya kesempatan tuh untuk kabur ya",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_14.mp4",
+    "audio": "clip_189_Sharing_14.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_15",
+    "text": "Karena awalnya Pia ini ragu Wak",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_15.mp4",
+    "audio": "clip_189_Sharing_15.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_16",
+    "text": "Dia sempet nengok tuh ke kaca spion dan ngeliat",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_16.mp4",
+    "audio": "clip_189_Sharing_16.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_17",
+    "text": "Kebetulan tubuh perempuan itu masih tegeletak di tengah jalan",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_17.mp4",
+    "audio": "clip_189_Sharing_17.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_18",
+    "text": "Jantung Pia juga udah berdebar-debar disitu kan",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_18.mp4",
+    "audio": "clip_189_Sharing_18.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_19",
+    "text": "Dia ngerasa takut sekaligus juga merasa bersalah",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_19.mp4",
+    "audio": "clip_189_Sharing_19.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_20",
+    "text": "Tapi Darwin pacarnya ini malah nekat Wak",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_20.mp4",
+    "audio": "clip_189_Sharing_20.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_21",
+    "text": "Udah Pia cepat, nanti kita ketahuan",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_189_Sharing_21.mp4",
+    "audio": "clip_189_Sharing_21.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_22",
+    "text": "Dengan tangan gemetar Pia pun akhirnya nurutin lah itu ucapannya Darwin",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_22.mp4",
+    "audio": "clip_189_Sharing_22.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_23",
+    "text": "Dia langsung tancap gas dan melajukan mobilnya Wak",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_189_Sharing_23.mp4",
+    "audio": "clip_189_Sharing_23.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_24",
+    "text": "Meninggalkan tubuh perempuan tidak berdosa itu",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_24.mp4",
+    "audio": "clip_189_Sharing_24.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_25",
+    "text": "Di tengah malam yang sunyi",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_25.mp4",
+    "audio": "clip_189_Sharing_25.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_26",
+    "text": "Malam itu Pia sama Darwin sadar",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_26.mp4",
+    "audio": "clip_189_Sharing_26.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_27",
+    "text": "Kalau mereka baru saja ngelakuin kesalahan besar",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_27.mp4",
+    "audio": "clip_189_Sharing_27.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_28",
+    "text": "Dan sejak saat itu hidup Pia sama Darwin pun mulai berubah drastis Wak",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_189_Sharing_28.mp4",
+    "audio": "clip_189_Sharing_28.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_29",
+    "text": "Nah setelah kejadian nabrak cewek tadi Wak terus kabur",
+    "audio_label": "positif",
+    "text_label": "negatif",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_29.mp4",
+    "audio": "clip_189_Sharing_29.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_30",
+    "text": "Darwin sama Pia ini berusaha melanjutkan hidup mereka",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_30.mp4",
+    "audio": "clip_189_Sharing_30.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_31",
+    "text": "Meskipun terus dihantui sama rasa bersalah",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_31.mp4",
+    "audio": "clip_189_Sharing_31.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_32",
+    "text": "Tapi biar gak terus kepikiran nih Wak ya",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "netral",
+    "video": "clip_189_Sharing_32.mp4",
+    "audio": "clip_189_Sharing_32.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_33",
+    "text": "Mereka ini sepakat untuk ngelupain kejadian itu",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_33.mp4",
+    "audio": "clip_189_Sharing_33.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_34",
+    "text": "Seolah-olah gak terjadi apa-apa",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_34.mp4",
+    "audio": "clip_189_Sharing_34.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_35",
+    "text": "Cuman selang beberapa hari kemudian",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_35.mp4",
+    "audio": "clip_189_Sharing_35.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_36",
+    "text": "Mulai ada nih Wak kejadian-kejadian aneh",
+    "audio_label": "netral",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "netral",
+    "video": "clip_189_Sharing_36.mp4",
+    "audio": "clip_189_Sharing_36.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_37",
+    "text": "Yang menimpa Darwin sama si Pia",
+    "audio_label": "netral",
+    "text_label": "netral",
+    "video_label": "netral",
+    "label": "netral",
+    "video": "clip_189_Sharing_37.mp4",
+    "audio": "clip_189_Sharing_37.wav"
+  },
+  {
+    "sample_id": "clip_189_Sharing_38",
+    "text": "Terima kasih",
+    "audio_label": "netral",
+    "text_label": "positif",
+    "video_label": "negatif",
+    "label": "positif",
+    "video": "clip_189_Sharing_38.mp4",
+    "audio": "clip_189_Sharing_38.wav"
+  },
+  {
+    "sample_id": "clip_195_Sharing_1",
+    "text": "Janda boleh",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_195_Sharing_1.mp4",
+    "audio": "clip_195_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_195_Sharing_2",
+    "text": "Nih jangan rolling",
+    "audio_label": "negatif",
+    "text_label": "negatif",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_195_Sharing_2.mp4",
+    "audio": "clip_195_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_199_Sharing_1",
+    "text": "Gigi",
+    "audio_label": "negatif",
+    "text_label": "netral",
+    "video_label": "positif",
+    "label": "negatif",
+    "video": "clip_199_Sharing_1.mp4",
+    "audio": "clip_199_Sharing_1.wav"
+  },
+  {
+    "sample_id": "clip_199_Sharing_2",
+    "text": "Apa ini?",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_199_Sharing_2.mp4",
+    "audio": "clip_199_Sharing_2.wav"
+  },
+  {
+    "sample_id": "clip_199_Sharing_3",
+    "text": "Yankee",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_199_Sharing_3.mp4",
+    "audio": "clip_199_Sharing_3.wav"
+  },
+  {
+    "sample_id": "clip_199_Sharing_4",
+    "text": "Gigi",
+    "audio_label": "positif",
+    "text_label": "netral",
+    "video_label": "negatif",
+    "label": "negatif",
+    "video": "clip_199_Sharing_4.mp4",
+    "audio": "clip_199_Sharing_4.wav"
+  }
+]

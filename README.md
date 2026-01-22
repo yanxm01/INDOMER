@@ -51,11 +51,11 @@ The paper explaining this dataset can be found - [https://arxiv.org/abs/2512.193
 ```text
 INDOMER/
 ├── 3_class/
-│   ├── train.json        # Train split with 3 sentiment categories (negative, neutral, positive)
-│   └── val.json          # Validation split with 3 sentiment categories
+│   ├── 3_class_train.json        # Train split with 3 sentiment categories (negative, neutral, positive)
+│   └── 3_class_val.json          # Validation split with 3 sentiment categories
 ├── 7_class/
-│   ├── train.json        # Train split with 7 emotion categories
-│   └── val.json          # Validation split with 7 emotion categories
+│   ├── 7_class_train.json        # Train split with 7 emotion categories
+│   └── 7_class_val.json          # Validation split with 7 emotion categories
 └── Annotations.csv       # Segment-level metadata, transcripts, and labels
 ```
 

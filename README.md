@@ -1,17 +1,17 @@
 ## Introduction
-IndoMER DATASET - the first comprehensive benchmark dataset for Indonesian multimodal emotion recognition. Comprising 2211 temporally aligned video segments from social media, IndoMER is meticulously annotated for seven emotions across text, audio, and visual modalities, featuring a well-documented long-tailed class distribution to reflect real-world challenges.
+IndoMER DATASET - the first comprehensive benchmark dataset for Indonesian multimodal emotion recognition. Comprising 2285 temporally aligned video segments from social media, IndoMER is meticulously annotated for seven emotions across text, audio, and visual modalities, featuring a well-documented long-tailed class distribution to reflect real-world challenges.
 
 ### Dataset Statistics
 | Statistics                                        | Number                     |
 |---------------------------------------------------|---------------------------:|
-| Total source videos                               | 300                        |
-| Total video segments                              | 2,211                      |
-| Total distinct speakers                           | 296                        |
-| &emsp;- *Male segments*                           | 821                        |
-| &emsp;- *Female segments*                         | 1,217                      |
-| Average segment duration                          | 5.23 sec                   |
-| Average word count                                | 10.82 words                |
-| Speech rate                                       | 2.07 words/sec             |
+| Total source videos                               | 321                        |
+| Total video segments                              | 2,285                      |
+| Total distinct speakers                           | 318                       |
+| &emsp;- *Male segments*                           | 829                        |
+| &emsp;- *Female segments*                         | 1,231                      |
+| Average segment duration                          | 5.26 sec                   |
+| Average word count                                | 10.67 words                |
+| Speech rate                                       | 2.03 words/sec             |
 | Vocabulary size (unique words)                    | 4,066                      |
 
 ### Dataset Topic Distribution
@@ -27,21 +27,21 @@ Distribution of emotional and sentiment annotations in the IndoMER dataset.
 ### Dataset Category Statistics
 | Category Type | Category   | Train | Val |
 |---------------|------------|------:|----:|
-| 7-Class       | Anger      | 75    | 14  |
-|               | Disgust    | 48    | 10   |
-|               | Fear       | 45     | 12   |
-|               | Happiness  | 351   | 59  |
-|               | Neutral    | 1,099 | 272 |
-|               | Sadness    | 148   | 35  |
-|               | Surprise   | 33     | 10   |
-| 3-Class       | Negative   | 316   | 71  |
-|               | Neutral    | 1,099 | 272 |
-|               | Positive   | 384   | 69  |
+| 7-Class       | Anger      | 75    | 35  |
+|               | Disgust    | 48    | 16   |
+|               | Fear       | 45     | 27   |
+|               | Happiness  | 351   | 64  |
+|               | Neutral    | 1,099 | 287 |
+|               | Sadness    | 148   | 37  |
+|               | Surprise   | 33     | 20   |
+| 3-Class       | Negative   | 316   | 115  |
+|               | Neutral    | 1,099 | 287 |
+|               | Positive   | 384   | 84  |
 
 ### Dataset Creation
-**Video Acquisition**: This dataset consists of 300 publicly available individual monologue videos collected from social media platforms (e.g., YouTube and TikTok). Each video captures natural multimodal emotional expressions through speech, vocal tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.
+**Video Acquisition**: This dataset consists of 321 publicly available individual monologue videos collected from social media platforms (e.g., YouTube and TikTok). Each video captures natural multimodal emotional expressions through speech, vocal tone, and facial cues. To ensure content diversity and reduce topic bias, videos were sourced from 13 broad categories (e.g., bloggers, books, celebrities, cooking, family, health, makeup, personal opinions, mild politics, products, sharing, society, and tutorials). All videos include only one primary speaker, and we strictly excluded content involving religion, race, violence, discrimination, or any harmful, offensive, or politically inflammatory language to ensure annotation clarity and ethical compliance. All videos are public and were selected to respect privacy and intellectual property guidelines, with the final dataset designed to represent diverse emotional and communication contexts while avoiding inappropriate or harmful material.
 
-**Segment Verification**: Our dataset was annotated by 7 Indonesian native speakers and 1 language expert for linguistic and cultural quality. Videos were segmented by natural pauses, then manually transcribed in authentic spoken Indonesian without converting to formal language. The expert reviewed transcripts with attention to regional variations. Sentiment was labeled on a –1 to 1 scale (0 = neutral) and finalized by majority agreement (≥2), otherwise decided by the expert using multimodal cues (tone + facial expression + context). Emotions follow Ekman’s 7-category standard (fear, disgust, anger, sadness, happiness, surprise, neutral), rated on a 0–3 intensity scale by 3 annotators, with expert adjudication when inconsistent. The final release contains 2,211 curated and ethically filtered emotional segments.
+**Segment Verification**: Our dataset was annotated by 7 Indonesian native speakers and 1 language expert for linguistic and cultural quality. Videos were segmented by natural pauses, then manually transcribed in authentic spoken Indonesian without converting to formal language. The expert reviewed transcripts with attention to regional variations. Sentiment was labeled on a –1 to 1 scale (0 = neutral) and finalized by majority agreement (≥2), otherwise decided by the expert using multimodal cues (tone + facial expression + context). Emotions follow Ekman’s 7-category standard (fear, disgust, anger, sadness, happiness, surprise, neutral), rated on a 0–3 intensity scale by 3 annotators, with expert adjudication when inconsistent. The final release contains 2285 curated and ethically filtered emotional segments.
 
 ## Paper
 The paper explaining this dataset can be found - [https://arxiv.org/abs/2512.19379](https://arxiv.org/abs/2512.19379)

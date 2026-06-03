@@ -6,9 +6,9 @@ IndoMER DATASET - the first comprehensive benchmark dataset for Indonesian multi
 |---------------------------------------------------|---------------------------:|
 | Total source videos                               | 321                        |
 | Total video segments                              | 2,285                      |
-| Total distinct speakers                           | 318                       |
-| &emsp;- *Male segments*                           | 829                        |
-| &emsp;- *Female segments*                         | 1,231                      |
+| Total distinct speakers                           | 318                        |
+| &emsp;- *Male segments*                           | 922                        |
+| &emsp;- *Female segments*                         | 1,363                      |
 | Average segment duration                          | 5.26 sec                   |
 | Average word count                                | 10.67 words                |
 | Speech rate                                       | 2.03 words/sec             |
